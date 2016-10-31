@@ -211,7 +211,6 @@ section h2
     width: 33.33333%;
     height: 100%;
 }
-
 #works .works-box a
 {
     position: relative;
@@ -279,7 +278,6 @@ section h2
     display: block;
     max-width: 100%;
 }
-
 #works::after
 {
     display: block;
